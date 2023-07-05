@@ -48,3 +48,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ---
 
 ## Let's making student client
+
+```bash
+npm i bootstrap
+npm i react-router-dom
+```
